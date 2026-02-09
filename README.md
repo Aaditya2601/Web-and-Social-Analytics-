@@ -17,14 +17,26 @@ I performed a comprehensive analysis of HighlandGear’s transaction and referra
 **Python**: NetworkX (for centrality measures) and Mlxtend (for Apriori/Association Rules).
 **Data**: transactions.csv, referrals.csv.
 
+
+<img width="950" height="659" alt="highlandgear_product_association_map" src="https://github.com/user-attachments/assets/6a881101-de1d-4067-8858-242fbb06f91f" />
+
 # Part 2: Web Analytics (HaggisBus)
 I analyzed a dataset of 160,000 visitors to the HaggisBus website to evaluate the effectiveness of their digital marketing campaigns.
 
 ## Key Objectives
 <br><br>
 **Campaign Performance**: I compared three paid advertisement campaigns (LinkedIn, Facebook, and Partner sites) using key metrics such as Conversion Rate, Bounce Rate, and Session Depth.
+
+<img width="1189" height="590" alt="haggisbus_marketting_channel" src="https://github.com/user-attachments/assets/3ffe67e8-f26f-4c1c-bfa4-5ac4e034dcff" />
+
 **Platform & User Journey**: I investigated behavioral differences across platforms (Mac, Windows, iOS, Android) to identify technical or UX friction points in the user journey.
+
+<img width="989" height="589" alt="desktop_vs_mobilehaggisbus" src="https://github.com/user-attachments/assets/cfc6231f-ae45-422b-8313-b7ca0d4dcc0d" />
+
 **Traffic Source Comparison**: I benchmarked paid traffic against organic social, direct, and search engine traffic to understand varying levels of user intent.
+
+<img width="946" height="529" alt="haggisbus" src="https://github.com/user-attachments/assets/239c9d6f-151f-40b7-b40d-8b2429d221a8" />
+
 **Content Strategy**: I identified which blog content categories led to the highest conversions to guide future content investments.
 
 ## Technologies Used
