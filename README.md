@@ -9,7 +9,7 @@ The project is divided into two primary parts, combining theoretical frameworks 
 I performed a comprehensive analysis of HighlandGear’s transaction and referral data to optimize their marketing and loyalty strategies.
 
 ## Key Objectives
-**Market Basket Analysis**: I used association rule mining to identify product bundles, calculating Support, Confidence, and Lift to determine the most effective product associations.
+**Market Basket Analysis**: I used association rule mining to identify product bundles, calculating Support, Confidence and Lift to determine the most effective product associations.
 **Referral Network Analysis**: I built a social network graph from customer referral data. By calculating Degree and Betweenness Centrality, I identified the top 5 most influential customers for targeted loyalty programs.
 **Ethical Review**: I evaluated the privacy and fairness implications of network-based marketing, specifically addressing the risk of "echo chambers" in recommendation systems.
 
