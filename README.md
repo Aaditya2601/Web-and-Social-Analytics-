@@ -45,7 +45,7 @@ I analyzed a dataset of 160,000 visitors to the HaggisBus website to evaluate th
 
 ## Deliverables
 **Analytical Report**: A 1,298-word executive summary providing strategic recommendations based on the data.
-**Codebase**: A Jupyter Notebook containing the data cleaning, network visualization, and quantitative analysis.
+**Codebase**: A Jupyter Notebook containing the data cleaning, network visualization and quantitative analysis.
 
 ## Based on my findings, I proposed:
 **HighlandGear**: Specific product bundling strategies and a tiered loyalty program focused on high-centrality "influencers".
