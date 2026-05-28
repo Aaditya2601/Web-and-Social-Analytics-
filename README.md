@@ -2,7 +2,7 @@
 ***Note: This project was completed as core assessment for the Web and Social Network Analytics module (2025/2026) at the University of Edinburgh. It utilizes simulated business scenarios to demonstrate proficiency in data-driven decision-making and social network theory***
 <br><br>
 In this project, I acted as a Business Analyst to provide data-driven insights for two distinct organizations: HighlandGear, a large outdoor retailer and HaggisBus, a premier touring company. My objective was to apply social network analysis, recommendation systems and web traffic analytics to solve real-world business challenges.
-The project is divided into two primary parts, combining theoretical frameworks with practical, code-based execution.
+The project is divided in two primary parts, combining theoretical frameworks with practical, code-based execution.
 
 <br><br>
 # Part 1: Retail Analytics (HighlandGear)
