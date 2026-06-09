@@ -25,7 +25,7 @@ I analyzed a dataset of 160,000 visitors to the HaggisBus website to evaluate th
 
 ## Key Objectives
 <br><br>
-**Campaign Performance**: I compared three paid advertisement campaigns (LinkedIn, Facebook, and Partner sites) using key metrics such as Conversion Rate, Bounce Rate and Session Depth.
+**Campaign Performance**: I compared three paid advertisement campaigns (LinkedIn, Facebook and Partner sites) using key metrics such as Conversion Rate, Bounce Rate and Session Depth.
 
 <img width="1189" height="590" alt="haggisbus_marketting_channel" src="https://github.com/user-attachments/assets/3ffe67e8-f26f-4c1c-bfa4-5ac4e034dcff" />
 
